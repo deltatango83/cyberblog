@@ -26,9 +26,6 @@ paginate     = 10
 
   # Add background image
   backgroundImage = 'img/foo.jpg'
-  
-[[ params.author ]]
-name = "deltatango83"
 
 [[params.social]]
   name = "linkedin"
