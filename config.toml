@@ -1,5 +1,6 @@
 baseurl      = "https://deltatango83.github.io/cyberblog/"
 title        = "My Blog"
+languageCode = "en-us"
 theme        = "hello-4s3ti"
 paginate     = 10
 
@@ -25,6 +26,9 @@ paginate     = 10
 
   # Add background image
   backgroundImage = 'img/foo.jpg'
+  
+[[ params.author ]]
+name = "deltatango83"
 
 [[params.social]]
   name = "linkedin"
@@ -55,8 +59,6 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "deltatango83 cyberblog"
-
-    [languages.en.params]
     subtitle = "logging my cyber journey"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -64,24 +66,25 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "deltatango83"
-      logoHomeLink = "/cyberblog/"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
-    [[menu.main]]
+  [[menu.main]]
     identifier = "blog"
     name       = "blog"
-    url        = "/cyberblog/posts"
+    url        = "/posts"
 
-    [[menu.main]]
+     [[menu.main]]
     identifier = "resume"
     name       = "resume"
-    url        = "/cyberblog/resume"
+    url        = "/resume"
 
     [[menu.main]]
     identifier = "projects"
     name       = "projects"
-    url        = "/cyberblog/projects"
+    url        = "/projects"
+    
