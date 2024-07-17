@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://deltatango83.github.io/cyberblog/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
@@ -48,7 +48,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "hello friend ng"
-      logoHomeLink = "/cyberblog"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
