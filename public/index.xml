@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>deltatango83 cyberblog</title>
     <link>http://localhost:1313/cyberblog/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on deltatango83 cyberblog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 17 Jul 2024 08:59:09 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/cyberblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,21 +13,21 @@
       <link>http://localhost:1313/cyberblog/resume/resume/</link>
       <pubDate>Wed, 17 Jul 2024 08:59:09 +0800</pubDate>
       <guid>http://localhost:1313/cyberblog/resume/resume/</guid>
-      <description></description>
+      <description>Introduction TEST PAGE&#xA;emphasised text</description>
     </item>
     <item>
       <title>Project01</title>
       <link>http://localhost:1313/cyberblog/projects/project01/</link>
       <pubDate>Wed, 17 Jul 2024 08:42:09 +0800</pubDate>
       <guid>http://localhost:1313/cyberblog/projects/project01/</guid>
-      <description></description>
+      <description>Introduction TEST PAGE&#xA;emphasised text</description>
     </item>
     <item>
       <title>2024 07 17</title>
       <link>http://localhost:1313/cyberblog/posts/2024-07-17/</link>
       <pubDate>Wed, 17 Jul 2024 08:39:56 +0800</pubDate>
       <guid>http://localhost:1313/cyberblog/posts/2024-07-17/</guid>
-      <description>##Introduction&#xA;TEST PAGE&#xA;emphasised text</description>
+      <description>Introduction TEST PAGE&#xA;emphasised text</description>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Hello Friend NG</title>
+    <title>Projects on deltatango83 cyberblog</title>
     <link>http://localhost:1313/cyberblog/projects/</link>
-    <description>Recent content in Projects on Hello Friend NG</description>
+    <description>Recent content in Projects on deltatango83 cyberblog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 17 Jul 2024 08:42:09 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/cyberblog/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,7 +13,7 @@
       <link>http://localhost:1313/cyberblog/projects/project01/</link>
       <pubDate>Wed, 17 Jul 2024 08:42:09 +0800</pubDate>
       <guid>http://localhost:1313/cyberblog/projects/project01/</guid>
-      <description></description>
+      <description>Introduction TEST PAGE&#xA;emphasised text</description>
     </item>
   </channel>
 </rss>
