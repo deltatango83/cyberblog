@@ -48,7 +48,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "hello friend ng"
-      logoHomeLink = "/"
+      logoHomeLink = "/cyberblog"
     # or
     #
     # path = "/img/your-example-logo.svg"
