@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resumes on Hello Friend NG</title>
-    <link>https://deltatango83.github.io/cyberblog/resume/</link>
+    <link>http://localhost:1313/cyberblog/resume/</link>
     <description>Recent content in Resumes on Hello Friend NG</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://deltatango83.github.io/cyberblog/resume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jul 2024 08:59:09 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/cyberblog/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/cyberblog/resume/resume/</link>
+      <pubDate>Wed, 17 Jul 2024 08:59:09 +0800</pubDate>
+      <guid>http://localhost:1313/cyberblog/resume/resume/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
