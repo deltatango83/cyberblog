@@ -74,14 +74,14 @@ paginate     = 10
     [[menu.main]]
     identifier = "blog"
     name       = "blog"
-    url        = "/posts"
+    url        = "/cyberblog/posts"
 
     [[menu.main]]
     identifier = "resume"
     name       = "resume"
-    url        = "/resume"
+    url        = "/cyberblog/resume"
 
     [[menu.main]]
     identifier = "projects"
     name       = "projects"
-    url        = "/projects"
+    url        = "/cyberblog/projects"
