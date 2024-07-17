@@ -64,7 +64,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "deltatango83"
-      logoHomeLink = "/"
+      logoHomeLink = "/cyberblog/"
     # or
     #
     # path = "/img/your-example-logo.svg"
