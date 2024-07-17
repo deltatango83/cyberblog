@@ -28,11 +28,42 @@ defaultContentLanguage = en
 
   # Add background image
   backgroundImage = 'img/foo.jpg'
+  defaultTheme = "dark"
+  EnableThemeToggle = true
+  EnableSharingButtons = true
+  EnableGlobalLanguageMenu = true
+  backgroundEffects = true
+  showPosts = true
+  tags = true
+  ReadMoreText = true
+  fontAwesome = { KitURL = "https://kit.fontawesome.com/0ed5cec925.js" }
+  ShowReadingTime = true
+  LastModDisplay = true
+  logo = { logoText = "deltatango83", logoCursorColor = "#ffffff" }
+  footer = { showVersion = true, socialIcons = true, author = true, rss = true, trademark = true, copyright = true, bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>", "with <a href=\"https://github.com/coolapso/hugo-theme-hello-4s3ti\">Hello-friend-4s3ti</a>"] }
 
+[[ params.author ]]
+name = "coolapso"
 
 [[params.social]]
-  name = "<site>"
-  url = "<profile_URL>"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/david-t-355806228/"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/deltatango83"
+
+[[params.social]]
+  name = "youtube"
+  url = "https://www.youtube.com/@ozdiver8334"
+
+[[params.social]]
+  name = "x-twitter"
+  url = "https://x.com/ozdiver83"
+
+[[params.social]]
+  name = "instagram"
+  url = "https://www.instagram.com/ozdiver83/"
 
 
 [taxonomies]
